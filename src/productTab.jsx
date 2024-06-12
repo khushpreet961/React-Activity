@@ -11,4 +11,4 @@ function productTab(){
     );
 }
 
-export default productTab;
+export default ProductTab;
